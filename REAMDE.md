@@ -31,5 +31,5 @@ _史**玲**玉_
 不懂撒尬舞  
   
   [github](http://github.com)
-if you wang to embed images,this is how you do it:
-![Image of Yaktocat](http://octodex.github.com/images/yaktocat.png)
+  if you wang to embed images,this is how you do it:
+  ![Image of Yaktocat](http://octodex.github.com/images/yaktocat.png)
