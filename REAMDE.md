@@ -18,3 +18,13 @@ _史**玲**玉_
 * 漂亮
 1. 你
 2. 好
+
+1. Make my changes
+  1. Fix bug
+  2. Improve formatting
+    * Make the headings bigger
+2. Push my commits to github
+3. Open a pull request
+  * Describe my changes
+     *Ask for feedback
+     
