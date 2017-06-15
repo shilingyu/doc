@@ -26,5 +26,5 @@ _史**玲**玉_
 2. Push my commits to github
 3. Open a pull request
   * Describe my changes
-     *Ask for feedback
+     * Ask for feedback
      
